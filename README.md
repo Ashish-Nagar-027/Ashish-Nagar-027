@@ -1,10 +1,10 @@
 ![](./assets/Header%20Banner.gif)
 
+
+
 <br/>
 
-# <i>Hello There 👋</i>
-
-#  ![](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&width=435&lines=Hello++There+;I++am++Ashish++Nagar;I++Write++Code+.+.+.+.;console.log(+%22+Nice+To+Meet+You+%22+))
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=45&duration=3500&pause=500&vCenter=true&width=600&height=75&lines=Hello+There+👋;I++am++Ashish++Nagar;I++Write++Code+.++.++.++.+👩‍💻;console.log(%22+Nice++to+Meet++You+%22))
 
 <!-- ============================================================================================================================== -->
 
