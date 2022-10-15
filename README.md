@@ -2,9 +2,9 @@
 
 <br/>
 
-###  <i>Hi There 👋</i>
+# <i>Hello There 👋</i>
 
-#  My Name Is Ashish Nagar
+#  ![](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&width=435&lines=Hello++There+;I++am++Ashish++Nagar;I++Write++Code+.+.+.+.;console.log(+%22+Nice+To+Meet+You+%22+))
 
 <!-- ============================================================================================================================== -->
 
@@ -18,9 +18,7 @@ I'm a Web developer from India.ea I really enjoy learning languages and framewor
 - 🧠  I'm learning Js React
   <br/>
 
-<a href="https://www.twitter.com/Ashish_Nagar_" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Ashish_Nagar_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-                /></a>
+<a href="https://www.twitter.com/Ashish_Nagar_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Ashish_Nagar_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 <br/>
 
@@ -36,7 +34,7 @@ I'm a Web developer from India.ea I really enjoy learning languages and framewor
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-<br/>      
+<br/>
 
 ## Socials
 
@@ -48,7 +46,7 @@ I'm a Web developer from India.ea I really enjoy learning languages and framewor
 <a href="https://www.linkedin.com/in/AshishNagar027/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/Ashish_Nagar_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<br/>      
+<br/>
 
 ## Badges
 
