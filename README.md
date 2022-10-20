@@ -52,6 +52,9 @@ I'm a Web developer from India.ea I really enjoy learning languages and framewor
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ashish-Nagar-027"><img src="https://github-readme-stats.vercel.app/api?username=Ashish-Nagar-027&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Ashish-Nagar-027's GitHub stats" /></a>
-<a href="http://www.github.com/Ashish-Nagar-027"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Nagar-027&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/Ashish-Nagar-027"><img src="https://activity-graph.herokuapp.com/graph?username=Ashish-Nagar-027&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashish-Nagar-027&theme=windows-dark&background=00000000)
+
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-Nagar-027&show_icons=true&border_color=025BDA&theme=transparent&bg_color=00000000)
+
+![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashish-Nagar-027&bg_color=00000000&color=025BDA&line=0891b2&point=0255CC&area=true&theme=transparent&hide_border=true)
