@@ -57,4 +57,4 @@ I'm a Web developer from India.ea I really enjoy learning languages and framewor
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-Nagar-027&show_icons=true&border_color=025BDA&theme=transparent&bg_color=00000000)
 
-![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashish-Nagar-027&bg_color=00000000&color=025BDA&line=0891b2&point=0255CC&area=true&theme=transparent&hide_border=true)
+<!-- ![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashish-Nagar-027&bg_color=00000000&color=025BDA&line=0891b2&point=0255CC&area=true&theme=transparent&hide_border=true) -->
