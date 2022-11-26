@@ -4,7 +4,7 @@
 
 <br/>
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=45&duration=3500&pause=500&vCenter=true&width=600&height=75&lines=Hello+There+👋;I++Am++Ashish++Nagar;console.log(%22+Nice++to+Meet++You+%22))
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=45&duration=3500&pause=1000&vCenter=true&color=FFFFFF&width=600&height=75&lines=Hello+There+👋;I++Am++Ashish++Nagar;console.log(%22+Nice++to+Meet++You+%22))
 
 <!-- ============================================================================================================================== -->
 
@@ -12,7 +12,7 @@
 
 ## About Me 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=3000&pause=1000&color=FFFFFF&width=435&lines=UI%2FUX+Developer;JavaScript+Developer;MERN+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=3500&pause=1000&color=FFFFFF&width=435&lines=UI%2FUX+Developer;JavaScript+Developer;MERN+Stack+Developer)
 
 - I'm a Web developer from India.
 - I really enjoy learning languages and frameworks like Tailwind and React etc.
