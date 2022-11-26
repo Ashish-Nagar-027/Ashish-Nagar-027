@@ -8,16 +8,26 @@
 
 <!-- ============================================================================================================================== -->
 
-### Web Developer
+## About Me 
+#### UI/UX Developer | MERN Stack Web Developer | JAVASRIPT Developer
 
 <!-- ------------- -->
-
 I'm a Web developer from India.ea I really enjoy learning languages and frameworks like Tailwind and React etc. I'm passionate about innovative technologies and how to build them.
 
-- 🖥️  See my portfolio at [My Website (click here)](http://ashish-nagar.netlify.app/)
+- 🖥️  See my portfolio [here](http://ashish-nagar.netlify.app/)
 <!-- <a href="https://www.twitter.com/Ashish_Nagar_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Ashish_Nagar_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000" /></a> -->
-<br/>
+<!-- <br/> -->
 
+## Socials
+<p align="left">
+&nbsp <a href="https://www.github.com/Ashish-Nagar-027" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>    &nbsp
+ <a href="https://ashish033.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>    &nbsp
+ <a href="http://www.instagram.com/that_one_dude_277" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>    &nbsp 
+ <a href="https://www.linkedin.com/in/AshishNagar027/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>    &nbsp
+ <a href="https://www.twitter.com/Ashish_Nagar_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+ </p> 
+<!-- <br/> -->
+ 
 ## Skills
 <p align="left"> &nbsp 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>   &nbsp 
@@ -29,29 +39,15 @@ I'm a Web developer from India.ea I really enjoy learning languages and framewor
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> -->
 </p>
 
-<br/>
-
-## Socials
-
-<p align="left">
-&nbsp <a href="https://www.github.com/Ashish-Nagar-027" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>    &nbsp
- <a href="https://ashish033.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>    &nbsp
- <a href="http://www.instagram.com/that_one_dude_277" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>    &nbsp 
- <a href="https://www.linkedin.com/in/AshishNagar027/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>    &nbsp
- <a href="https://www.twitter.com/Ashish_Nagar_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
- </p>    
-
-
-<br/>
+   
+<!-- <br/> -->
 
 ## Badges
 
 <b>My GitHub Stats</b>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashish-Nagar-027&background=00000000&theme=windows-dark) ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-Nagar-027&show_icons=true&border_color=025BDA&theme=transparent&bg_color=00000000) 
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashish-Nagar-027&background=00000000&theme=windows-dark)
-
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-Nagar-027&show_icons=true&border_color=025BDA&theme=transparent&bg_color=00000000)
-
-![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashish-Nagar-027&bg_color=00000000&color=025BDA&line=0891b2&point=0255CC&area=true&theme=transparent&hide_border=true)
+<!-- ![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashish-Nagar-027&bg_color=00000000&color=025BDA&line=0891b2&point=0255CC&area=true&theme=transparent&hide_border=true) -->
 
