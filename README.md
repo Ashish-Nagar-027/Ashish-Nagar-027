@@ -4,16 +4,19 @@
 
 <br/>
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=45&duration=3500&pause=500&vCenter=true&width=600&height=75&lines=Hello+There+👋;I++am++Ashish++Nagar;I++Write++Code+.++.++.++.+👩‍💻;console.log(%22+Nice++to+Meet++You+%22))
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=45&duration=3500&pause=500&vCenter=true&width=600&height=75&lines=Hello+There+👋;I++Am++Ashish++Nagar;console.log(%22+Nice++to+Meet++You+%22))
 
 <!-- ============================================================================================================================== -->
 
+
+
 ## About Me 
-#### UI/UX Developer | MERN Stack Web Developer | JAVASRIPT Developer
 
-<!-- ------------- -->
-I'm a Web developer from India.ea I really enjoy learning languages and frameworks like Tailwind and React etc. I'm passionate about innovative technologies and how to build them.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=3000&pause=1000&color=FFFFFF&width=435&lines=UI%2FUX+Developer;JavaScript+Developer;MERN+Stack+Developer)
 
+- I'm a Web developer from India.
+- I really enjoy learning languages and frameworks like Tailwind and React etc.
+-  I'm passionate about innovative technologies and how to build them.
 - 🖥️  See my portfolio [here](http://ashish-nagar.netlify.app/)
 <!-- <a href="https://www.twitter.com/Ashish_Nagar_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Ashish_Nagar_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000" /></a> -->
 <!-- <br/> -->
