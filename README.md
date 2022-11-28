@@ -11,7 +11,7 @@
 | --- |
 |  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=3500&pause=1000&color=FFFFFF&width=435&lines=UI%2FUX+Developer;JavaScript+Developer;MERN+Stack+Developer)  |
 | <li> 🖥️ &nbsp;   See my portfolio [here](http://ashish-nagar.netlify.app/) </li> |
-| <li> 🕷  &nbsp;   I'm a Web 🕸 developer ()  from India.  </li> |
+| <li> 🕷  &nbsp;   I'm a Web 🕸 developer   from India.  </li> |
 | <li> 👨‍💻 &nbsp;   I really enjoy learning languages and frameworks like Tailwind and React etc.  </li>|
 | <li> 👨‍🔬  &nbsp; I'm passionate about innovative technologies and how to build them. </li> |
 
