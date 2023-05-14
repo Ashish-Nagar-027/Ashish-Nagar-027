@@ -1,6 +1,7 @@
 ![](./assets/Header%20Banner.gif)
 
 <br/> 
+<br/> 
 
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=45&duration=3500&pause=1000&vCenter=true&width=600&height=75&lines=Hello+There+👋;I++Am++Ashish++Nagar;console.log(%22+Nice++to+Meet++You+%22))
